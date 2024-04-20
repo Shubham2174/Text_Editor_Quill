@@ -61,8 +61,4 @@ After starting the application, navigate to `http://localhost:3000` in your web 
 
 ## Contact
 
-For any questions or feedback, please contact us at `yourcontact@example.com`.
-
----
-
-**Note**: Replace placeholders like `https://github.com/yourusername/yourrepository.git` and `yourrepository` with the actual repository URL and name. Also, ensure that the `CONTRIBUTING.md` and `LICENSE` files are properly set up in your project.
+For any questions or feedback, please contact us at `shubham.dixit23@vit.edu`.
